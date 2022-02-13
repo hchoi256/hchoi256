@@ -1,14 +1,11 @@
 ## Personal
-Hello, I am Hojun Choi, and my pronouns are he/him/his. You can simply call me Eric Choi (**preferred**).
+- **Name**:       Eric Choi
 
-I am:
-- an international Student on an F-1 visa, seeking an software engineering internship for Summer 2022.
-- inquisitive, creative, and fast learner who always pursues to learn new technology
+- **Pronouns**:   he/him
 
-## Education
-- School: University of Wisconsin - Madison (Bachelor's)
-  - will graduate in Dec 2022
-- Majors: Computer Science and Data Science
+- **School**: University of Wisconsin - Madison (Bachelor's)
+
+- **Majors**: Computer Science and Data Science
 
 ## Skills
 - Fluent with Java, C, Python (numpy/matplotlib/pandas), R, Linux, git, SQL, data structures/algorithms
@@ -18,6 +15,12 @@ I am:
 
 ## Contact
 - Linkedin: https://www.linkedin.com/in/hojun-choi-2b10b11a0/
+
+## Notes
+I am interested in reinforcement learning - part of the field of machine learning, although much of my past experience is related to other fields in the IT industry. 
+So, I'm working on a personal project in my area of interest and looking for research programs or internship opportunities.
+
+Thank you for your time reading my bio. All the best 🥇
 
 <!---
 EricChoii/EricChoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
