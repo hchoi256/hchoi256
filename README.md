@@ -17,7 +17,7 @@
 - Linkedin: https://www.linkedin.com/in/hojun-choi-2b10b11a0/
 
 ## Notes
-I am interested in reinforcement learning - part of the field of machine learning, although much of my past experience is related to other fields in the IT industry. 
+I am interested in **reinforcement learning** - part of the field of machine learning, although much of my past experience is related to other fields in the IT industry. 
 So, I'm working on a personal project in my area of interest and looking for research programs or internship opportunities.
 
 Thank you for your time reading my bio. All the best 🥇
