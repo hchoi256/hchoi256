@@ -11,8 +11,8 @@ I am:
 - Majors: Computer Science and Data Science
 
 ## Skills
-- Fluent with Java, JavaScript C, Python (numpy matplotlib pandas), R, Linux, git, SQL, data structures/algorithms
-- Intermediate with C#, C++, HTML/CSS/PHP, Node.js, OS knowledge, Unity Game Engine, basic ML algorithms
+- Fluent with Java, C, Python (numpy/matplotlib/pandas), R, Linux, git, SQL, data structures/algorithms
+- Intermediate with JavaScript, C#, C++, HTML/CSS/PHP, Node.js, OS knowledge, Unity Game Engine, basic ML algorithms
 - Proficient with object oriented design patterns and capable of statistical analysis of data using R or Python
 - Understanding of sorting and binary search trees, and graph searching algorithms
 
