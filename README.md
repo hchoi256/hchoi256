@@ -5,8 +5,6 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-
 - ✍ You can find my resume here [Resume](https://hchoi256.github.io/assets/CV.pdf)
 - 🌱 My research interests are ML, deep NLP, and computer vision for emerging application domains.
 - 📫 Reach out to me: eric970412@gmail.com
