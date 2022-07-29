@@ -1,18 +1,15 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhumika 👩‍💻</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am an Undergraduate Student
-pursuing my B.Tech from Heritage Institute of Technology, Kolkata
+I am a senior-year B.S. student in Computer Science and Data Science at the University of Wisconsin, Madison.
 
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-- ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source
+- ✍ You can find my resume here [Resume](https://hchoi256.github.io/assets/CV.pdf)
+- 🌱 My research interests are ML, deep NLP, and computer vision for emerging application domains.
 - 📫 Reach out to me: eric970412@gmail.com
-- ⚡ Fun fact: I know how to play a piano
 
 <br>
 
