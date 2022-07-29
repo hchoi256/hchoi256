@@ -5,7 +5,7 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 
 <br>
 
-- ✍ You can find my resume here [Resume](https://hchoi256.github.io/assets/CV.pdf)
+- ✍ You can find my resume here [CV](https://hchoi256.github.io/assets/CV.pdf)
 - 🌱 My research interests are **ML**, **deep NLP**, and **computer vision** for emerging application domains.
 - 📫 Reach out to me: eric970412@gmail.com
 
