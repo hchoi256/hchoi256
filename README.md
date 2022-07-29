@@ -20,7 +20,7 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
   
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
 ![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
-
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=CC6699"/>	
 
 
 ### Frameworks and Libraries
