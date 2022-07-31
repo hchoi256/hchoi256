@@ -22,6 +22,7 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=CC6699"/>	
 
+</p>
 
 ### Frameworks and Libraries
 
@@ -30,6 +31,8 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-green?style=flat&logo=Pytorch&logoColor=CC6699"/>	
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-red?style=flat&logo=Tensorflow&logoColor=CC6699"/>	
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Keras-blue?style=flat&logo=Keras&logoColor=CC6699"/>		
+
+</p>
 
 ### Software
 
@@ -43,6 +46,8 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 ![icons8-visual-studio-code-2022](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 ![icons8-stack-overflow](https://user-images.githubusercontent.com/76852813/172722286-8f3ffc2b-593a-4670-9e9f-c77154f6763c.svg)
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
+	
+</p>
 	
 ## GitHub Stats
 
