@@ -31,6 +31,7 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Pytorch-green?style=flat&logo=Pytorch&logoColor=CC6699"/>	
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Tensorflow-red?style=flat&logo=Tensorflow&logoColor=CC6699"/>	
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Keras-blue?style=flat&logo=Keras&logoColor=CC6699"/>		
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/NLTK-yellow?style=flat&logo=NLTK&logoColor=CC6699"/>		
 
 </p>
 
