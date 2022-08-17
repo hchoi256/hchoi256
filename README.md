@@ -7,7 +7,7 @@ I am a senior-year B.S. student in Computer Science and Data Science at the Univ
 
 - 👀 You can find my portfolio [here](https://hchoi256.github.io/assets/포트폴리오.pdf)
 - ✍ You can find my CV [here](https://hchoi256.github.io/assets/CV.pdf)
-- 🌱 My research interests are **ML**, **deep NLP**, and **XAI in computer vision** for emerging application domains.
+- 🌱 My research interests are **Hyperscale AI**, **ML**, **deep NLP**, and **XAI in computer vision** for emerging application domains.
 - 📫 Reach out to me: hchoi256@wisc.edu
 
 
