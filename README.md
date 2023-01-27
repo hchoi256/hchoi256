@@ -1,14 +1,16 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am a senior-year B.S. student in Computer Science and Data Science at the University of Wisconsin, Madison.
+I earned my BS degree in Computer Science and Data Science at the University of Wisconsin-Madison, and I am currently pursuing my PhD in AI at SNU.
+
+I am broadly interested in **big data**, **model compression**, **hyper-scale AI**, **graph/data mining**, and **machine/deep learning**. The main objective of my study is to build a reliable and expansive AI/ML system for sustainable development.
 
 <br>
 
 - 👀 You can find my portfolio [here](https://hchoi256.github.io/assets/포트폴리오.pdf)
 - ✍ You can find my CV [here](https://hchoi256.github.io/assets/CV.pdf)
-- 🌱 My research interests are **Data Mining**, **Machine Learning**, and **3D Computer Vision**.
-- 📫 Reach out to me: hchoi256@wisc.edu
+- 🌱 My research interests are **Model Compression**, **Hyper-scale AI**, **Graph/Data mining**, and **Machine/Deep Learning**.
+- 📫 Reach out to me: eric970412@gmail.com
 
 
 <br>
