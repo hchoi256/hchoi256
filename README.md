@@ -9,7 +9,7 @@ I am broadly interested in **big data**, **model compression**, **hyper-scale AI
 
 - 👀 You can find my portfolio [here](https://hchoi256.github.io/assets/Portfolio.pdf)
 - ✍ You can find my CV [here](https://hchoi256.github.io/assets/CV.pdf)
-- 🌱 My research interests are **Model Compression**, **Hyper-scale AI**, **Graph/Data mining**, and **Machine/Deep Learning**.
+- 🌱 My research interests are **Model Compression**, **Hyper-scale AI**, and **Machine/Deep Learning**.
 - 📫 Reach out to me: eric970412@gmail.com
 
 
