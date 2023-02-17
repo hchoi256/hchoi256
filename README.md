@@ -23,8 +23,7 @@ I am broadly interested in **big data**, **model compression**, **hyper-scale AI
   
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=CC6699"/>	
 
 </p>
