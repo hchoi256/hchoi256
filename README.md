@@ -3,7 +3,7 @@
 
 I earned my BS degree in Computer Science and Data Science at the University of Wisconsin-Madison, and I am currently pursuing my PhD in AI at SNU.
 
-I am broadly interested in **big data**, **model compression**, **hyper-scale AI**, and **machine/deep learning**. The main objective of my study is to build a reliable and expansive AI/ML system for sustainable development.
+I am broadly interested in **model compression**, **hyper-scale AI**, and **machine/deep learning**. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
 
 <br>
 
