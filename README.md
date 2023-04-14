@@ -9,7 +9,7 @@ I am broadly interested in **reinforcement learning**, **deep learning**, **mode
 
 - 👀 You can find my portfolio [here](https://hchoi256.github.io/assets/Portfolio.pdf)
 - ✍ You can find my CV [here](https://hchoi256.github.io/assets/CV.pdf)
-- 🌱 My research interests are **reinforcement learning**, **deep learning**, **model compression/optimization**, and **hyper-scale AI**.
+- 🌱 My research interests are **reinforcement learning**, **deep learning**, **model compression**, and **hyper-scale AI**.
 - 📫 Reach out to me: eric970412@gmail.com
 
 
