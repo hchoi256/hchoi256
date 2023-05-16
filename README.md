@@ -1,15 +1,12 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I earned my BS degree in Computer Science and Data Science at the University of Wisconsin-Madison, and I am currently pursuing my MS/PhD in AI at SNU.
-
-I am broadly interested in **reinforcement learning**, **deep learning**, **model compression/optimization**, and **hyper-scale AI**. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
+I am broadly interested in **NLP**, **LLMs**, **deep learning**, and **hyper-scale AI**. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
 
 <br>
 
 - 👀 You can find my portfolio [here](https://hchoi256.github.io/assets/Portfolio.pdf)
 - ✍ You can find my CV [here](https://hchoi256.github.io/assets/CV.pdf)
-- 🌱 My research interests are **reinforcement learning**, **deep learning**, **model compression/optimization**, and **hyper-scale AI**.
 - 📫 Reach out to me: eric970412@gmail.com
 
 
