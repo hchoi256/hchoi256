@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am broadly interested in **Computer Vision**, **3D Vision**, **Object Detection/Tracking**, and **Model Compression**. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
+I am broadly interested in **Computer Vision**, **3D Vision**, **Object Detection**, and **Model Compression**. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
 
 <br>
 
