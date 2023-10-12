@@ -5,8 +5,6 @@ I am broadly interested in **Computer Vision**, **Machine Learning**, **Quantiza
 
 <br>
 
-- 👀 You can find my portfolio [here](https://hchoi256.github.io/assets/Portfolio.pdf)
-- ✍ You can find my CV [here](https://hchoi256.github.io/assets/CV.pdf)
 - 📫 Reach out to me: eric970412@gmail.com
 
 
