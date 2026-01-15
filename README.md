@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am broadly interested in **Computer Vision** and **Machine Learning**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
+I am broadly interested in **Computer Vision** and **Machine Learning**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. My research interests include **multimodal/foundation models**, **autonomous driving**, and **agentic AI**, with the goal of building reliable, efficient, and scalable AI/ML systems for sustainable development.
 
 <br>
 
