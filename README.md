@@ -1,11 +1,17 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am broadly interested in **Computer Vision** and **Machine Learning**. I am currently pursuing my MS degree in AI at KAIST AI. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
+I am broadly interested in **Computer Vision** and **Machine Learning**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. The main objective of my study is to build a reliable, efficient, and expansive AI/ML system for sustainable development.
 
 <br>
 
 - 📫 Reach out to me: eric970412@gmail.com
+- 📑 CV: [link](https://github.com/user-attachments/files/24638201/CV.pdf)
+- 🎓 Google Scholar: [link](https://scholar.google.com/citations?user=6uE5yBgAAAAJ&hl=en)
+- 🌐 Website: [link](https://mousy-mouth-9ff.notion.site/HOJUN-CHOI-2bad927396af48e484236545c1fcad4f)
+- 🐱 GitHub: [link](https://github.com/hchoi256)
+- 🤗 Hugging Face: [link](https://huggingface.co/hchoi256)
+
 
 
 <br>
@@ -48,14 +54,12 @@ I am broadly interested in **Computer Vision** and **Machine Learning**. I am cu
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
 	
 </p>
-	
+
 ## GitHub Stats
 
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=hchoi256&show_icons=true&theme=algolia)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchoi256&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hchoi256&theme=algolia)                    | 
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=hchoi256&theme=react-dark&hide_border=true&area=true) |   
+| My Stats |
+|:--:|
+| ![My Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=hchoi256&theme=react-dark&hide_border=true&area=true) |
 
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
@@ -63,4 +67,4 @@ I am broadly interested in **Computer Vision** and **Machine Learning**. I am cu
 ------
 Credit: [hchoi256](https://github.com/hchoi256)
 
-Last Edited on: 7/29/22
+Last Edited on: 01/15/26
