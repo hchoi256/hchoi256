@@ -1,14 +1,13 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am broadly interested in **Computer Vision** and **Machine Learning**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. My research interests include **multimodal/foundation models**, **autonomous driving**, and **agentic AI**, with the goal of building reliable, efficient, and scalable AI/ML systems for sustainable development.
-
+I am broadly interested in **Computer Vision,** **Multimodal Learning,** and **Vision-Language Models**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. 
 <br>
 
 - 📫 Reach out to me: eric970412@gmail.com
 - 📑 CV: [link](https://github.com/user-attachments/files/24638201/CV.pdf)
 - 🎓 Google Scholar: [link](https://scholar.google.com/citations?user=6uE5yBgAAAAJ&hl=en)
-- 🌐 Website: [link](https://mousy-mouth-9ff.notion.site/HOJUN-CHOI-2bad927396af48e484236545c1fcad4f)
+- 🌐 Homepage: [link](https://hchoi256.github.io/)
 - 🐱 GitHub: [link](https://github.com/hchoi256)
 - 🤗 Hugging Face: [link](https://huggingface.co/hchoi256)
 
