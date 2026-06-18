@@ -5,7 +5,7 @@ I am broadly interested in **Computer Vision,** **Multimodal Learning,** and **V
 <br>
 
 - 📫 Reach out to me: eric970412@gmail.com
-- 📑 CV: [link](https://github.com/user-attachments/files/24638201/CV.pdf)
+- 📑 CV: [link](https://hchoi256.github.io/assets/files/CV.pdf)
 - 🎓 Google Scholar: [link](https://scholar.google.com/citations?user=6uE5yBgAAAAJ&hl=en)
 - 🌐 Homepage: [link](https://hchoi256.github.io/)
 - 🐱 GitHub: [link](https://github.com/hchoi256)
