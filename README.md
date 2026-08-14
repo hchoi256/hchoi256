@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hojun Choi 👩‍💻</h1>
 <br>
 
-I am broadly interested in **Computer Vision,** **Multimodal Learning,** **Agentic AI, ** and **Vision-Language Models**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. 
+I am broadly interested in **Computer Vision,** **Multimodal Learning,** **Agentic AI,** and **Vision-Language Models**. I am currently pursuing my Ph.D. degree in AI at KAIST AI. 
 <br>
 
 - 📫 Reach out to me: eric970412@gmail.com
