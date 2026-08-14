@@ -8,9 +8,8 @@ I am broadly interested in **Computer Vision,** **Multimodal Learning,** **Agent
 - 📑 CV: [link](https://hchoi256.github.io/assets/files/CV.pdf)
 - 🎓 Google Scholar: [link](https://scholar.google.com/citations?user=6uE5yBgAAAAJ&hl=en)
 - 🌐 Homepage: [link](https://hchoi256.github.io/)
-- 🐱 GitHub: [link](https://github.com/hchoi256)
 - 🤗 Hugging Face: [link](https://huggingface.co/hchoi256)
-
+- 📋 Linkedin: [link](https://www.linkedin.com/in/hojun-choi-2b10b11a0/)
 
 
 <br>
