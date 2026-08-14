@@ -42,15 +42,15 @@ I am broadly interested in **Computer Vision, Multimodal Learning, Agentic AI,**
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hchoi256/hchoi256/output/github-contribution-grid-snake-dark.svg"
-    />
+      srcset="https://raw.githubusercontent.com/hchoi256/hchoi256/output/bomberman-contribution-graph-dark.svg"
+    >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hchoi256/hchoi256/output/github-contribution-grid-snake.svg"
-    />
+      srcset="https://raw.githubusercontent.com/hchoi256/hchoi256/output/bomberman-contribution-graph.svg"
+    >
     <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/hchoi256/hchoi256/output/github-contribution-grid-snake.svg"
-    />
+      alt="Bomberman Contribution Graph"
+      src="https://raw.githubusercontent.com/hchoi256/hchoi256/output/bomberman-contribution-graph.svg"
+    >
   </picture>
 </p>
