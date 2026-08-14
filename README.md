@@ -35,10 +35,3 @@ I am broadly interested in **Computer Vision, Multimodal Learning, Agentic AI,**
   <img src="https://img.shields.io/badge/Slurm-43A047?style=flat&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </p>
-
-
-## GitHub Stats
-
-| My Stats |
-|:--:|
-| ![My Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=hchoi256&theme=react-dark&hide_border=true&area=true) |
