@@ -11,16 +11,220 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
+      # 1. Generate the original snake SVGs
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hchoi256
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#2ea043
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39d353
 
+      # 2. Add GitHub-style month/day labels
+      - name: Add month and weekday labels
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          from datetime import datetime, timezone, timedelta, date
+
+
+          def next_month(d):
+              if d.month == 12:
+                  return date(d.year + 1, 1, 1)
+              return date(d.year, d.month + 1, 1)
+
+
+          def add_labels(filename, dark=False):
+              path = Path(filename)
+              svg = path.read_text(encoding="utf-8")
+
+              # Find contribution cells from the generated SVG
+              cells = re.findall(
+                  r'<rect class="c(?: [^"]*)?" x="([\d.]+)" y="([\d.]+)"',
+                  svg,
+              )
+
+              if not cells:
+                  raise RuntimeError(
+                      f"Could not find contribution cells in {filename}"
+                  )
+
+              xs = sorted({float(x) for x, _ in cells})
+              ys = sorted({float(y) for _, y in cells})
+
+              columns = len(xs)
+
+              # Contribution graph ends on the current week.
+              today = datetime.now(timezone.utc).date()
+
+              # Python Monday=0 ... Sunday=6
+              current_sunday = today - timedelta(
+                  days=(today.weekday() + 1) % 7
+              )
+
+              start_sunday = current_sunday - timedelta(
+                  weeks=columns - 1
+              )
+
+              # First visible month
+              month_labels = [
+                  (start_sunday.strftime("%b"), 0)
+              ]
+
+              # Following months
+              month = date(
+                  start_sunday.year,
+                  start_sunday.month,
+                  1,
+              )
+
+              if month < start_sunday:
+                  month = next_month(month)
+
+              while month <= today:
+                  column = (month - start_sunday).days // 7
+
+                  if 0 <= column < columns:
+                      item = (
+                          month.strftime("%b"),
+                          column,
+                      )
+
+                      if item != month_labels[-1]:
+                          month_labels.append(item)
+
+                  month = next_month(month)
+
+              # GitHub-like label colors
+              label_color = (
+                  "#8b949e"
+                  if dark
+                  else "#57606a"
+              )
+
+              font = (
+                  "-apple-system,"
+                  "BlinkMacSystemFont,"
+                  "Segoe UI,"
+                  "Helvetica,"
+                  "Arial,"
+                  "sans-serif"
+              )
+
+              labels = [
+                  (
+                      f'<g id="github-calendar-labels" '
+                      f'fill="{label_color}" '
+                      f'font-family="{font}" '
+                      f'font-size="11">'
+                  )
+              ]
+
+              # Month labels
+              for name, column in month_labels:
+                  labels.append(
+                      f'<text '
+                      f'x="{xs[column]:g}" '
+                      f'y="-10">'
+                      f'{name}'
+                      f'</text>'
+                  )
+
+              # Weekday labels, like GitHub
+              weekdays = [
+                  (1, "Mon"),
+                  (3, "Wed"),
+                  (5, "Fri"),
+              ]
+
+              for row, name in weekdays:
+                  if row < len(ys):
+                      labels.append(
+                          f'<text '
+                          f'x="-42" '
+                          f'y="{ys[row] + 6:g}" '
+                          f'dominant-baseline="middle">'
+                          f'{name}'
+                          f'</text>'
+                      )
+
+              labels.append("</g>")
+
+              labels_svg = "".join(labels)
+
+              # Expand SVG slightly to the left
+              # so Mon / Wed / Fri fit.
+              viewbox = re.search(
+                  r'viewBox="(-?[\d.]+) (-?[\d.]+) '
+                  r'([\d.]+) ([\d.]+)"',
+                  svg,
+              )
+
+              if viewbox:
+                  min_x, min_y, width, height = map(
+                      float,
+                      viewbox.groups(),
+                  )
+
+                  extra_left = 30.0
+
+                  new_viewbox = (
+                      f'viewBox="'
+                      f'{min_x - extra_left:g} '
+                      f'{min_y:g} '
+                      f'{width + extra_left:g} '
+                      f'{height:g}"'
+                  )
+
+                  svg = (
+                      svg[:viewbox.start()]
+                      + new_viewbox
+                      + svg[viewbox.end():]
+                  )
+
+                  width_match = re.search(
+                      r'\bwidth="([\d.]+)"',
+                      svg,
+                  )
+
+                  if width_match:
+                      new_width = width + extra_left
+
+                      svg = (
+                          svg[:width_match.start()]
+                          + f'width="{new_width:g}"'
+                          + svg[width_match.end():]
+                      )
+
+              # Insert labels immediately before contribution cells
+              svg = svg.replace(
+                  '<rect class="c"',
+                  labels_svg + '<rect class="c"',
+                  1,
+              )
+
+              path.write_text(
+                  svg,
+                  encoding="utf-8",
+              )
+
+
+          add_labels(
+              "dist/github-contribution-grid-snake.svg",
+              dark=False,
+          )
+
+          add_labels(
+              "dist/github-contribution-grid-snake-dark.svg",
+              dark=True,
+          )
+          PY
+
+      # 3. Publish to output branch
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
