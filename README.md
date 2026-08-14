@@ -36,7 +36,7 @@ I am broadly interested in **Computer Vision, Multimodal Learning, Agentic AI,**
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </p>
 
-## GitHub Activity
+## GitHub Contributions
 
 <p align="center">
   <picture>
